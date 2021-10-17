@@ -1,0 +1,11 @@
+- name: Sungjae Hwang
+  photo: hwang_pic.jpeg
+  info: Assistant Professor
+  email: sungjaeh@skku.edu
+  number_educ: 5
+  education1: Ph.D. at <a href="http://plrg.kaist.ac.kr">PLRG</a> with Sukyoung Ryu in KAIST
+  education2: M.S. at <a href="http://syssec.kr">SysSec</a> with Yongdae Kim & Sukyoung Ryu in KAIST 
+  education3: M.S. at Sungkyunkwan University. Major in Information Security
+  education4: B.S at University of Manchester. Major in Software Engineering
+  education5: <a href="https://softsec.skku.edu/assets/hwang.pdf"> CV </a>
+

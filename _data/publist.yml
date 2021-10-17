@@ -1,0 +1,68 @@
+
+- title: "JUSTGen: Effective Test Generation for Unspecified JNI Behaviors on JVMs"
+  authors: <b>Sungjae Hwang</b>, Sungho Lee, Jihoon Kim, and Sukyoung Ryu
+  link:
+    url: https://ieeexplore.ieee.org/document/9402099
+    display: 43rd ACM/IEEE International Conference on Software Engineering (ICSE 2021)
+  highlight: 1
+  news2: 
+
+- title: "Towards Secure Interoperation in Android: A study of interoperation vulnerabilities in Android"
+  image:
+  description: 
+  authors: <b>Sungjae Hwang</b>
+  link:
+    url: 
+    display: Ph.D Thesis, KAIST, 2021 
+  highlight: 0
+  news2:
+  
+- title: "An Empirical Study of Security Patches in Solidity"
+  authors: <b>Sungjae Hwang</b>, and Sukyoung Ryu 
+  link:
+    url: https://dl.acm.org/doi/10.1145/3377811.3380424
+    display: 42nd ACM/IEEE International Conference on Software Engineering (ICSE 2020)
+  highlight: 1
+  news2: 
+  
+- title: "All about Activity Injection: Threats, Semantics, Detection, and Defense"
+  image:
+  description:
+  authors: <b>Sungjae Hwang</b>, Sungho Lee, and Sukyoung Ryu 
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2792
+    display: Software Practice and Experience (SPE 2020) 
+  highlight: 0
+  news2: 
+  
+
+- title: "All about Activity Injection: Threats, Semantics, and Detection"
+  image: 
+  description: 
+  authors: <b>Sungjae Hwang</b>, Sungho Lee, and Sukyoung Ryu 
+  link:
+    url: https://dl.acm.org/doi/10.5555/3155562.3155597 
+    display: 32st IEEE/ACM International Conference on Automated Software Engineering (ASE 2017) 
+  highlight: 1
+  news2:
+
+- title: "Bittersweet ADB: Attacks and Defenses"
+  image:
+  description: 
+  authors: <b>Sungjae Hwang</b>, Sungho Lee, Yongdae Kim, and Sukyoung Ryu 
+  link:
+    url: https://dl.acm.org/doi/10.1145/2714576.2714638 
+    display: ACM ASIA Conference on Computer and Communications Security (ASIACCS 2015) 
+  highlight: 0
+  news2:
+
+- title: "Update Vulnerability in Android"
+  image:
+  description: 
+  authors: <b>Sungjae Hwang</b>
+  link:
+    url: 
+    display: M.S. Thesis, KAIST, 2014 
+  highlight: 0
+  news2:
+
