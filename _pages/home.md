@@ -5,7 +5,7 @@ excerpt: "SoftSec Lab at SKKU"
 sitemap: false
 permalink: /
 ---
-Software Security Lab (SoftSec) is a research lab [Department of Computer Science and Engineering](http://cs.skku.edu/en) in the Sungkyunkwan University that focuses on improving the security of real-world systems such as <b>Android, Blockchain, Automotive, and Cloud</b>. For this, we develop automated techniques for finding new vulnerabilities and methodologies for helping programmers to develop secure systems. To achieve our goal, we use techniques in software engineering, programming language, and security fields.
+Software Security Lab (SoftSec) is a research lab in the Sungkyunkwan University that focuses on improving the security of real-world systems such as <b>Android, Blockchain, Automotive, and Cloud</b>. For this, we develop automated techniques for finding new vulnerabilities and methodologies for helping programmers to develop secure systems. To achieve our goal, we use techniques in software engineering, programming language, and security fields.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <ol class="carousel-indicators">

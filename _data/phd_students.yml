@@ -8,11 +8,12 @@
 #  education3:
 #  education4:
 
-#- name: Wonyoung Cho
-#  photo: wonyoung.jpg
-#  info: Master student
-#  email: cliffclimber AT g.skku.edu
-#  number_educ: 0
-#  education1:
+- name: Kihwang Kim
+  photo: kimkihwan.jpeg 
+  info: Ph.D student (collaborative researcher)
+  email: cliffclimber AT g.skku.edu
+  number_educ: 2
+  education1: M.S at KAIST
+  education2: B.S at KAIST
 
 
