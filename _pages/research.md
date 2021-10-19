@@ -7,7 +7,18 @@ permalink: /research/
 ---
 
 ## Research
+We research cross section of security, programming language, and software engineering.<br>
+Our main research goal is to understand and improve security quality of real-world systems.<br>
+Currently, we are interested in automotive, blockchain, Android, and cloud systems. <br>
+We applies various techniques from security, programming language, and software engineering fields.
 
+
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/research.jpg" width="750" height="450" />
+</div>
+
+
+<!---
 **Cloud Security**<br>
 This project performs security analysis on the cloud platform 
 to find new security issues and develop tools to mitigate them. <br>
@@ -25,6 +36,6 @@ For this, we are working on IDPS, fuzzer, and static/dynamic analyzers for autom
 There are many security issues in programs running on blockchain platforms and Android.
 In this project, we seek new security issues in Blockchain and Android platforms.
 In addition, we develop automated tools for finding new vulnerabilities in such software.
-
+--->
 
 
