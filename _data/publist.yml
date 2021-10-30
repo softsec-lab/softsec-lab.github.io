@@ -17,7 +17,7 @@
   highlight: 0
   news2:
   
-- title: "An Empirical Study of Security Patches in Solidity"
+- title: "Gap between Theory and Practice : An Empirical Study of Security Patches in Solidity"
   authors: <b>Sungjae Hwang</b>, and Sukyoung Ryu 
   link:
     url: https://dl.acm.org/doi/10.1145/3377811.3380424
