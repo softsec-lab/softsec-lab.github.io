@@ -8,12 +8,13 @@
 #  education3:
 #  education4:
 
-- name: Kihwang Kim
+- name: Kihwan Kim
   photo: kimkihwan.jpeg 
   info: Ph.D student (collaborative researcher)
   email: cliffclimber AT g.skku.edu
-  number_educ: 2
+  number_educ: 3
   education1: M.S at KAIST
   education2: B.S at KAIST
+  education3: Research Interest- Automotive Security
 
 
