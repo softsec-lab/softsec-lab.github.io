@@ -17,6 +17,13 @@ We applies various techniques from security, programming language, and software 
 <img src="{{ site.url }}{{ site.baseurl }}/images/research.jpg" width="750" height="450" />
 </div>
 
+**Current Research Projects**
+
+1. 공개 OS 커널 기반 임베디드 펌웨어 에뮬레이션 기술 연구 (NSRI 2022 ~ 2022, 연구책임자) <br>
+2. 디컴파일 코드의 품질 측정을 위한 메트릭 연구 (NSRI 2022 ~ 2022, 연구책임자) <br>
+3. 자동차 시스템 보안성 및 품질 향상을 위한 소프트웨어 분석 프레임워크 (NRF 2022 ~ 2024, 연구책임자) <br>
+4. 개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 AI 플랫폼 연구 및 개발 (IITP 2022 ~ 2027, 공동연구원) <br>
+
 
 <!---
 **Cloud Security**<br>
