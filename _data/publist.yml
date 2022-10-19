@@ -1,4 +1,12 @@
 
+- title: "Empirical Study of Activity Injection Attacks in Android Malware"
+  authors: Youngseok Kim, and Sungjae Hwang
+  link:
+    url: 
+    display: Annual Conference of KIPS (ACK 2022)
+  highlight: 1
+  news2: 
+
 - title: "JUSTGen: Effective Test Generation for Unspecified JNI Behaviors on JVMs"
   authors: <b>Sungjae Hwang</b>, Sungho Lee, Jihoon Kim, and Sukyoung Ryu
   link:
