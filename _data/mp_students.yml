@@ -18,7 +18,7 @@
   education3: Research Interest- Automotive Security
 
 - name: Wonyoung Cho
-  photo: cho.jpeg 
+  photo: cho.jpg 
   info: M.S student
   email: cliffclimber AT g.skku.edu
   number_educ: 2
@@ -26,7 +26,7 @@
   education2: B.S at Kyungwoon University. Major in Aeronautics of Software Engineering
 
 - name: Junseok Lee
-  photo: lee.jpeg 
+  photo: lee.jpg 
   info: M.S student
   email: cliffclimber AT g.skku.edu
   number_educ: 5
@@ -37,9 +37,9 @@
   education5: Research Interest- Blockchain Security
 
 - name: Dohee Kim
-  photo: kimdohee.jpeg 
+  photo: kimdohee.jpg 
   info: M.S student
   email: cliffclimber AT g.skku.edu
   number_educ: 2
   education1: M.S at Sungkyunkwan University
-  education3: Research Interest- Automotive Security
+  education2: Research Interest- Automotive Security
