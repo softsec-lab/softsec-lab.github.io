@@ -73,12 +73,12 @@ permalink: /members/
 
 
 
-### Ph.D. Students
+### Graduate Students
 
-**We are looking for highly motivated Ph.D students!**
+**We are looking for highly motivated graduate students!**
 
 {% assign number_printed = 0 %}
-{% for member in site.data.phd_students %}
+{% for member in site.data.mp_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -132,12 +132,12 @@ permalink: /members/
 
 
 
-### Master / Bachelor Students
+### Undergraduate Students
 
-**We are looking for highly motivated Master and Undergraduate students!**
+**We are looking for highly motivated undergraduate students!**
 
 {% assign number_printed = 0 %}
-{% for member in site.data.msb_students %}
+{% for member in site.data.bs_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
