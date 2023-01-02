@@ -43,3 +43,11 @@
   number_educ: 2
   education1: M.S at Sungkyunkwan University
   education2: Research Interest- Automotive Security
+
+- name: Kyeonghwan Min
+  photo: min.jpeg 
+  info: M.S student 
+  email: baksa1849 AT g.skku.edu
+  number_educ: 2
+  education1: B.S at Sungkyunkwan University
+  education2: Research Interest- Binary Analysis & Decompile
