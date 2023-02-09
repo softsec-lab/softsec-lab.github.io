@@ -17,13 +17,13 @@
   education2: B.S at KAIST
   education3: Research Interest- Automotive Security
 
-- name: Wonyoung Cho
-  photo: cho.jpg 
-  info: M.S student
-  email: cliffclimber AT g.skku.edu
-  number_educ: 2
-  education1: M.S at Sungkyunkwan University
-  education2: B.S at Kyungwoon University. Major in Aeronautics of Software Engineering
+#- name: Wonyoung Cho
+#  photo: cho.jpg 
+#  info: M.S student
+#  email: cliffclimber AT g.skku.edu
+#  number_educ: 2
+#  education1: M.S at Sungkyunkwan University
+#  education2: B.S at Kyungwoon University. Major in Aeronautics of Software Engineering
 
 - name: Junseok Lee
   photo: lee.jpg 
