@@ -8,6 +8,16 @@
 #  education3:
 #  education4:
 
+
+- name: Parkchun Sung 
+  photo: park.jpeg 
+  info: Ph.D student 
+  email: ashine@skku.edu
+  number_educ: 3
+  education1: M.S at Korea University
+  education2: Very famous Hacker!
+  education3: Research Interest- Automotive Security
+
 - name: Kihwan Kim
   photo: kimkihwan.jpeg 
   info: Ph.D student (collaborative researcher)
@@ -16,14 +26,6 @@
   education1: M.S at KAIST
   education2: B.S at KAIST
   education3: Research Interest- Automotive Security
-
-#- name: Wonyoung Cho
-#  photo: cho.jpg 
-#  info: M.S student
-#  email: cliffclimber AT g.skku.edu
-#  number_educ: 2
-#  education1: M.S at Sungkyunkwan University
-#  education2: B.S at Kyungwoon University. Major in Aeronautics of Software Engineering
 
 - name: Junseok Lee
   photo: lee.jpg 
@@ -51,3 +53,27 @@
   number_educ: 2
   education1: B.S at Sungkyunkwan University
   education2: Research Interest- Binary Analysis & Decompile
+
+- name: Chanwoo Lee
+  photo: chanwoo.jpeg 
+  info: M.S student 
+  email: baksa1849 AT g.skku.edu
+  number_educ: 2
+  education1: M.S at Sungkyunkwan University
+  education2: Research Interest- Security
+
+- name: Haeun Eom
+  photo: student_w.png 
+  info: M.S student 
+  email: baksa1849 AT g.skku.edu
+  number_educ: 2
+  education1: M.S at Sungkyunkwan University
+  education2: Research Interest- Automotive Security
+
+- name: Bohyun Suk
+  photo: gumJin.png
+  info: M.S student 
+  email: baksa1849 AT g.skku.edu
+  number_educ: 2
+  education1: M.S at Sungkyunkwan University
+  education2: Research Interest- Automotive Security
