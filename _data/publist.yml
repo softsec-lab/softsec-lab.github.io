@@ -56,7 +56,7 @@
 - title: "All about Activity Injection: Threats, Semantics, and Detection"
   image: 
   description: 
-  authors: <b>Sungjae Hwang</b>, Sungho Lee, and Sukyoung Ryu 
+  authors: Sungho Lee, <b>Sungjae Hwang</b>, and Sukyoung Ryu 
   link:
     url: https://dl.acm.org/doi/10.5555/3155562.3155597 
     display: 32st IEEE/ACM International Conference on Automated Software Engineering (ASE 2017) 
