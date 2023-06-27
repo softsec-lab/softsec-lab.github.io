@@ -7,6 +7,23 @@
   highlight: 1
   news2: 
 
+- title: "LSAT: Logic-based Security Analysis Tool for Security Policies"
+  authors: GumJin Lee, Sungjae Hwang
+  link:
+    url: 
+    display: 한국컴퓨터종합학술대회 (KCC 2023)
+  highlight: 1
+  news2: 
+
+- title: "자동차 보안의 현황과 과제"
+  authors: 권민희, 김도희, 황성재
+  link:
+    url: 
+    display: 정보과학회지 특집원고, June 2023 
+  highlight: 1
+  news2: 
+
+
 - title: "A Study of Rug Pulls in Real World DeFi Projects"
   authors: Youngseop Shin, and Sungjae Hwang
   link:
