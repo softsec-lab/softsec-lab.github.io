@@ -17,7 +17,7 @@ Software Security Lab (SoftSec) is a research lab in the Sungkyunkwan University
     </ol>
 
     <div class="carousel-inner" markdown="0">
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/main8.jpg" />
         </div>
         <div class="item">
@@ -26,7 +26,7 @@ Software Security Lab (SoftSec) is a research lab in the Sungkyunkwan University
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/main7.jpg" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sigpl2023.jpeg" />
         </div>
         <div class="item">
