@@ -207,7 +207,6 @@ permalink: /members/
 
 
 
-<!--
 ### Alumni
 
 {% assign number_printed = 0 %}
@@ -268,5 +267,3 @@ permalink: /members/
 </div>
 
 </div>
-
--->
