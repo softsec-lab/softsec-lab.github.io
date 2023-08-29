@@ -87,6 +87,15 @@
   education2: M.S at Sungkyunkwan University
   education3: Research Interest- Intersection of Machine Learning and Data Privacy 
 
+- name: Youngseok Kim
+  photo: kim.jpeg 
+  info: M.S student 
+  email: cliffclimber AT g.skku.edu
+  number_educ: 3
+  education1: B.S at Sungkyunkwan University
+  education2: M.S at Sungkyunkwan University
+  education3: Research Interest- Android Security
+
 - name: GumJin Lee
   photo: gumJin.png
   info: M.S student
