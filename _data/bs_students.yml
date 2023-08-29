@@ -24,14 +24,6 @@
   education1: B.S at Sungkyunkwan University
   education2: Research Interest- Blockchain Security
 
-- name: Youngseok Kim
-  photo: kim.jpeg 
-  info: Undergraduate student 
-  email: cliffclimber AT g.skku.edu
-  number_educ: 2
-  education1: B.S at Sungkyunkwan University
-  education2: Research Interest- Android Security
-
 - name: Sori Lim
   photo: student_w.png 
   info: Undergraduate student 
@@ -40,14 +32,6 @@
   education1: B.S at Sungkyunkwan University
   education2: Research Interest- Binary Decompiler
 
-- name: GumJin Lee
-  photo: gumJin.png
-  info: Undergraduate student 
-  email: baksa1849 AT g.skku.edu
-  number_educ: 2
-  education1: B.S at Sungkyunkwan University
-  education2: Research Interest- Static and Dynamic Analysis
-
 - name: Seoyoon Lee
   photo: seoyoon.png
   info: Undergraduate student 
@@ -55,4 +39,3 @@
   number_educ: 2
   education1: B.S at Sungkyunkwan University
   education2: Research Interest- Automotive Security
-
