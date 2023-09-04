@@ -43,3 +43,13 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+title: Security and Privacy Conference Deadlines
+description: Countdowns to top Security and Privacy conference deadlines.
+author: Bogdan Kulynych
+domain: "https://softsec.skku.edu/Deadlines"
+baseurl: ""
+twitter_username: hiddenmarkov
+github_username: sec-deadlines
+github_repo: sec-deadlines
+ga_id: UA-104921371-1
+markdown: kramdown
