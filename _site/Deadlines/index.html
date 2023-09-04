@@ -9,8 +9,8 @@
     <title>{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="{{ "/static/css/deadlines.css" | prepend:site.baseurl }}" media="screen,projection">
-    <link rel="shortcut icon" href="{{ "/static/img/favicon.png" | prepend:site.baseurl }}">
+    <link rel="stylesheet" type="text/css" href="{{ "http://localhost:4000/static/css/deadlines.css" | prepend:site.baseurl }}" media="screen,projection">
+    <link rel="shortcut icon" href="{{ "http://localhost:4000/static/img/favicon.png" | prepend:site.baseurl }}">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   </head>
   <body>
@@ -32,10 +32,10 @@
             <div>
                 <p>
                     Deadlines as iCal: 
-                    <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>; 
-                    <a href="{{site.baseurl}}/ical/deadlines-sec.ical">security</a>; 
-                    <a href="{{site.baseurl}}/ical/deadlines-priv.ical">privacy</a>; 
-                    <a href="{{site.baseurl}}/ical/deadlines-crypto.ical">crypto</a>
+                    <a href="http://localhost:4000/ical/deadlines-all.ical">all</a>; 
+                    <a href="http://localhost:4000/ical/deadlines-sec.ical">security</a>; 
+                    <a href="http://localhost:4000/ical/deadlines-priv.ical">privacy</a>; 
+                    <a href="http://localhost:4000/ical/deadlines-crypto.ical">crypto</a>
                 </p>
             </div>
           </div>
@@ -111,7 +111,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.34/moment-timezone-with-data-10-year-range.min.js" integrity="sha512-d11VXfxQMn+sZuIgzHITdIuInr4cVRGV/uLiSI643WH/J+p4gPFYSHXRMR2v+w4Rn2TSyzJjsZjc0M7+Qd+UXw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/store.js/2.0.12/store.legacy.min.js" integrity="sha512-3yZTInL4yLU1ajnca35KTk6YE4RPHJU2y+jbhHAykE9OzMHpc2BIJghNsbkBNacIJWLLUmUkLEGPDDWrFY2zzw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="{{ site.baseurl}}/static/js/main.js" async></script>
+    <script src="http://localhost:4000/static/js/main.js" async></script>
     {% if site.ga_id %}
     {% include analytics.html %}
     {% endif %}
