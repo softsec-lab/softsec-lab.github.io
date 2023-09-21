@@ -18,40 +18,40 @@ Software Security Lab (SoftSec) is a research lab in the Sungkyunkwan University
 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main8.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main8.jpg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main6.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main6.jpg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main7.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main7.jpg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sigpl2023.jpeg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sigpl2023.jpeg" width="200" height="300"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/kim_bug.jpeg" width="400" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teaching_award.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teaching_award.jpg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/kim_ack.jpeg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/kim_ack.jpeg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main1.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main1.jpg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main2.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main2.jpg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main3.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main3.jpg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main4.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main4.jpg" width="200" height="300"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main5.jpg" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main5.jpg" width="200" height="300"/>
         </div>
 
     </div>
