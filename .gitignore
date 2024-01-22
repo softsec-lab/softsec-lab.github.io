@@ -1,0 +1,11 @@
+# Jekyll build output
+_site/
+
+# Jekyll cache directory
+.jekyll-cache/
+
+# build profile
+Gemfile.lock
+
+# macOS
+.DS_Store
