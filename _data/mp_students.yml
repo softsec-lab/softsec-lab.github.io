@@ -13,86 +13,86 @@
   photo: park.jpeg 
   info: Ph.D student 
   email: ashine@skku.edu
-  number_educ: 3
-  education1: M.S at Korea University
-  education2: Very famous Hacker!
-  education3: Research Interest- Automotive Security
+  details: 
+    - M.S at Korea University
+    - Very famous Hacker!
+    - Research Interest- Automotive Security
 
 - name: Kihwan Kim
   photo: kimkihwan.jpeg 
   info: Ph.D student (collaborative researcher)
   email: cliffclimber AT g.skku.edu
-  number_educ: 3
-  education1: M.S at KAIST
-  education2: B.S at KAIST
-  education3: Research Interest- Automotive Security
+  details:
+    - M.S at KAIST
+    - B.S at KAIST
+    - Research Interest- Automotive Security
 
 - name: Junseok Lee
   photo: lee.jpg 
   info: M.S student
   email: cliffclimber AT g.skku.edu
-  number_educ: 5
-  education1: M.S at Sungkyunkwan University
-  education2: B.S at Sungkyunkwan University. Major in Semiconductor System Engineering
-  education3: former) LG Energy Solution, Software Engineer
-  education4: former) LG CNS, Blockchain Team
-  education5: Research Interest- Blockchain Security
+  details: 
+    - M.S at Sungkyunkwan University
+    - B.S at Sungkyunkwan University. Major in Semiconductor System Engineering
+    - former) LG Energy Solution, Software Engineer
+    - former) LG CNS, Blockchain Team
+    - Research Interest- Blockchain Security
 
 - name: Kyeonghwan Min
   photo: min.jpeg 
   info: M.S student 
   email: baksa1849 AT g.skku.edu
-  number_educ: 2
-  education1: B.S at Sungkyunkwan University
-  education2: Research Interest- Binary Analysis & Decompile
+  details: 
+    - B.S at Sungkyunkwan University
+    - Research Interest- Binary Analysis & Decompile
 
 - name: Dohee Kim
   photo: kimdohee.jpg 
   info: M.S student
   email: cliffclimber AT g.skku.edu
-  number_educ: 2
-  education1: M.S at Sungkyunkwan University
-  education2: Research Interest- Automotive Security
+  details:
+    - M.S at Sungkyunkwan University
+    - Research Interest- Automotive Security
 
 - name: Haeun Eom
   photo: eom.jpeg
   info: M.S student 
   email: baksa1849 AT g.skku.edu
-  number_educ: 2
-  education1: M.S at Sungkyunkwan University
-  education2: Research Interest- Automotive Security
+  details: 
+    - M.S at Sungkyunkwan University
+    - Research Interest- Automotive Security
 
 - name: Bohyun Suk
   photo: suk.jpeg
   info: M.S student 
   email: baksa1849 AT g.skku.edu
-  number_educ: 2
-  education1: M.S at Sungkyunkwan University
-  education2: Research Interest- Cloud Security
+  details: 
+    - M.S at Sungkyunkwan University
+    - Research Interest- Cloud Security
 
 - name: Junehyung Kim 
   photo: jun.jpeg
   info: M.S student 
   email: baksa1849 AT g.skku.edu
-  number_educ: 3
-  education1: B.S at Sungkyunkwan University major in Mathematics and Computer Science 
-  education2: M.S at Sungkyunkwan University
-  education3: Research Interest- Intersection of Machine Learning and Data Privacy 
+  details: 
+    - B.S at Sungkyunkwan University major in Mathematics and Computer Science 
+    - M.S at Sungkyunkwan University
+    - Research Interest- Intersection of Machine Learning and Data Privacy 
 
 - name: Youngseok Kim
   photo: kim.jpeg 
   info: M.S student 
   email: cliffclimber AT g.skku.edu
-  number_educ: 3
-  education1: B.S at Sungkyunkwan University
-  education2: M.S at Sungkyunkwan University
-  education3: Research Interest- Android Security
+  details:
+    - B.S at Sungkyunkwan University
+    - M.S at Sungkyunkwan University
+    - Research Interest- Android Security
 
 - name: GumJin Lee
   photo: gumJin.png
   info: M.S student
   email: baksa1849 AT g.skku.edu
-  number_educ: 3
-  education1: B.S at Sungkyunkwan University
-  education2: M.S at Sungkyunkwan University
-  education3: Research Interest- Static and Dynamic Analysis
+  details:
+    - B.S at Sungkyunkwan University
+    - M.S at Sungkyunkwan University
+    - Research Interest- Static and Dynamic Analysis
