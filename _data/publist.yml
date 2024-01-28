@@ -3,6 +3,16 @@
   link:
     url:
     display: ACM International Conference on the Foundations of Software Engineering (FSE 2024)
+highlight: 1
+  news2:
+
+- title: "Challenges in Firmware Re-Hosting for Satellite Systems"
+  authors: Sungjae Hwang, and Haeun Eom
+  link:
+    url:
+    display: 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (ANSD 2023)
+  highlight: 1
+  news2:
 
 - title: "RT-Blockchain:Achieving Time-Predictable Transactions"
   authors: Seunghoon Lee, Sukmin Kang, Seungyeon Cho, Hyunwoo Koo, Sungjae Hwang and Jinkyu Lee
