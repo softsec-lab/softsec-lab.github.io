@@ -99,8 +99,9 @@
 
 - name: Min-gyu Kim
   photo: minGyuKim.jpg
-  info: B.S student
+  info: M.S student
   details:
+    - M.S at Sungkyunkwan University
     - B.S at Sungkyunkwan University
     - Research Interest- Blockchain Web3 Security
 
