@@ -1,0 +1,13 @@
+- name: Black Hat Europe 2023
+  details:
+    - writer: Haeun Eom
+      title: Black Hat Europe 2023 Trip Report
+      contents: 
+        - type: report
+          href: /report/Black_Hat_Trip_Report_haeun.pdf
+    - writer: Dohee Kim
+      title: Black Hat Europe 2023 Trip Report
+      contents: 
+        - type: report
+          href: /report/Black-Hat-Europe-2023-Trip-Report_Dohee.pdf
+    
