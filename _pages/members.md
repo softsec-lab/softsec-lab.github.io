@@ -101,7 +101,7 @@ permalink: /members/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% for detail in member.details %}
@@ -130,7 +130,7 @@ permalink: /members/
 
 
 {% for member in site.data.alumni_members %}
-<div class="row">
+<div class="row" style="height: 16px">
 <div class="col-sm-12 clearfix">
   <h5>{{ member.name }} <i>{{ member.info }}</i></h5>
   <ul style="overflow: hidden">

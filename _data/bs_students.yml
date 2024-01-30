@@ -7,19 +7,9 @@
 #  education2:
 #  education3:
 #  education4:
-
-- name: Sori Lim
-  photo: student_w.png 
-  info: Undergraduate student 
-  email: drwho AT g.skku.edu
-  details: 
-    - B.S at Sungkyunkwan University
-    - Research Interest- Binary Decompiler
-
-
-- name: GINMOO Kim
-  photo: jimmo.jpeg 
+- name: Giri Pravas
+  photo: giri_pravas.jpg 
   info: Undergraduate student 
   details: 
     - B.S at Sungkyunkwan University
-    - Research Interest- Automotive Security
+    - Research Interest- Cloud Computing.

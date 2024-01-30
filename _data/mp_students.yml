@@ -28,7 +28,7 @@
     - Research Interest- Automotive Security
 
 - name: Junseok Lee
-  photo: lee.jpg 
+  photo: leejunseok.jpg 
   info: M.S student
   email: cliffclimber AT g.skku.edu
   details: 
@@ -39,7 +39,7 @@
     - Research Interest- Blockchain Security
 
 - name: Kyeonghwan Min
-  photo: min.jpeg 
+  photo: min.jpg 
   info: M.S student 
   email: baksa1849 AT g.skku.edu
   details: 
@@ -96,3 +96,27 @@
     - B.S at Sungkyunkwan University
     - M.S at Sungkyunkwan University
     - Research Interest- Static and Dynamic Analysis
+
+- name: Min-gyu Kim
+  photo: minGyuKim.jpg
+  info: B.S student
+  details:
+    - B.S at Sungkyunkwan University
+    - Research Interest- Blockchain Web3 Security
+
+- name: Jongchan Hong
+  photo: jongChanHong.jpg
+  info: M.S student
+  details:
+    - M.S at Sungkyunkwan University
+    - Research Interest- Automotive Security
+    - Product Manager at Korea Electric Vehicle Charging Service
+    - Software Developer at NHN Commerce
+    - Full Stack Developer at Thecheat
+
+- name: Seohyun Ahn
+  photo: SeohyunAhn.png
+  info: M.S student
+  details:
+    - M.S at Sungkyunkwan University
+    - Research Interest- Cloud Security, Automotive Security
