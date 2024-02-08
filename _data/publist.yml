@@ -15,7 +15,7 @@
 - title: "RT-Blockchain:Achieving Time-Predictable Transactions"
   authors: Seunghoon Lee, Sukmin Kang, Seungyeon Cho, Hyunwoo Koo, Sungjae Hwang and Jinkyu Lee
   link:
-    url: 
+    url: https://rtclskku.github.io/website/papers/IJ202312LKC.pdf
     display: 44th IEEE Real-Time System Symposium (RTSS 2023)
   highlight: 1
   news2: 
@@ -23,7 +23,7 @@
 - title: "EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes"
   authors: Shinhae Kim, and Sungjae Hwang
   link:
-    url: 
+    url: https://dl.acm.org/doi/pdf/10.1145/3611643.3616251
     display: 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
   highlight: 1
   news2: 
@@ -31,7 +31,7 @@
 - title: "LSAT: Logic-based Security Analysis Tool for Security Policies"
   authors: GumJin Lee, Sungjae Hwang
   link:
-    url: 
+    url: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11488357
     display: 한국컴퓨터종합학술대회 (KCC 2023)
   highlight: 1
   news2: 
@@ -39,7 +39,7 @@
 - title: "자동차 보안의 현황과 과제"
   authors: 권민희, 김도희, 황성재
   link:
-    url: 
+    url: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11438157
     display: 정보과학회지 특집원고, June 2023 
   highlight: 1
   news2: 
@@ -75,7 +75,7 @@
   description: 
   authors: Sungjae Hwang
   link:
-    url: 
+    url: https://kdrm.kaist.ac.kr/ezpdfwebviewer/ezpdf/customLayout.jsp?encdata=1661C4B33B47740FA1E8958A249C75DDD83FF0E9294B0A7777294DEF54174D00E464993BE0419278598BD59B7D4A0373E0C90AA9EF9DD9E0F62E46D583A58C3A5B00F5FD41B0997C&lang=ko
     display: Ph.D Thesis, KAIST, 2021 
   highlight: 0
   news2:
