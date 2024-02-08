@@ -10,11 +10,8 @@ permalink: /publications/
 ## Publications
 
 {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br />
-  {% if publi.link.url == null %}{{ publi.link.display }}
-  {% else %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>
-  {% endif %}
+{% assign hasUrl = publi.link.url != null %}
+  {% if hasUrl %}<a href="{{ publi.link.url }}" target="_blank">{% endif %}{{ publi.title }}{% if hasUrl %}</a>{% endif %}<br />
+  <em>{{ publi.authors }} </em><br />{{ publi.link.display }}
 
 {% endfor %}
