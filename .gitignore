@@ -9,3 +9,6 @@ Gemfile.lock
 
 # macOS
 .DS_Store
+
+# intellij
+.idea
