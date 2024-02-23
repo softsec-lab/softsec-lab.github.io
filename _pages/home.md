@@ -8,54 +8,31 @@ permalink: /
 Software Security Lab (SoftSec) is a research lab in the Sungkyunkwan University that focuses on improving the security of real-world systems such as <b>Android, Blockchain, Automotive, and Cloud</b>. For this, we develop automated techniques for finding new vulnerabilities and methodologies for helping programmers to develop secure systems. To achieve our goal, we use techniques in software engineering, programming language, and security fields.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    {% assign number_printed = 0 %}
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+    {% for slider in site.data.main_slider %}
+        {% if number_printed == 0 %}
+            <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        {% else %}
+            <li data-target="#carousel" data-slide-to="{{number_printed}}"></li>
+        {% endif %}
+    {% assign number_printed = number_printed | plus: 1 %}
+    {% endfor %}
     </ol>
 
+    {% assign slider_printed = 0 %}
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main8.jpg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main6.jpg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main7.jpg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sigpl2023.jpeg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/kim_bug.jpeg" height="700" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teaching_award.jpg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/kim_ack.jpeg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main1.jpg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main2.jpg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main3.jpg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main4.jpg" height="700"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main5.jpg" height="700"/>
-        </div>
-
+        {% for slider in site.data.main_slider %}
+            {% if slider_printed == 0 %}
+            <div class="item active">
+            {% else %}
+            <div class="item">
+            {% endif %}
+                <img src="{{slider.url}}" height="700"/>
+            </div>
+        {% assign slider_printed = slider_printed | plus: 1 %}
+        {% endfor %}
     </div>
-
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
