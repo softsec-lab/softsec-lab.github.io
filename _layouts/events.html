@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<link rel="stylesheet" type="text/css" href="/css/card.css" media="screen,projection">
+<h3 style="text-align: center">Events</h3>
+<div class="container-fluid card-container">
+    {% for event in site.data.events %}
+    <div class="card" data-title="{{event.title}}" data-content="{{event.content}}" data-date="{{event.date}}" onclick="openModal(this)">
+        <datalist>
+        {% for image in event.imgList %}
+            <option value="{{image}}"></option>
+        {% endfor %}
+        </datalist>
+        <img src="{{event.thumbnail}}" alt="Card Image">
+        <div class="card-content">
+            <div class="card-title">{{event.title}}</div>
+            <p class="card-description">{{event.content}}</p>
+            <p class="card-date">{{event.date}}</p>
+        </div>
+    </div>
+    {% endfor %}
+
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close" onclick="closeModal()">×</span>
+            <h2 id="modalTitle"></h2>
+            <div id="modalImages" class="modal-images"></div>
+
+            <p id="modalDescription"></p>
+            <p id="modalDate"></p>
+        </div>
+    </div>
+
+    <script>
+        window.onclick = function(events) {
+            if (events.target === document.getElementById('myModal')) {
+                closeModal();
+            }
+        }
+        // 모달 열기
+        function openModal(object) {
+            var dataList = object.querySelector("datalist");
+            var imagesHtml = '';
+            for (var i = 0; i < dataList.options.length; i++) {
+                imagesHtml += '<img src="' + dataList.options[i].value + '" alt="Modal Image">';
+            }
+            document.getElementById('modalImages').innerHTML = imagesHtml;
+            document.getElementById('modalTitle').innerText = object.dataset.title;
+            document.getElementById('modalDate').innerText = object.dataset.date;
+            document.getElementById('modalDescription').innerText = object.dataset.content;
+            document.getElementById('myModal').style.display = 'flex';
+        }
+
+        // 모달 닫기
+        function closeModal() {
+            document.getElementById('myModal').style.display = 'none';
+        }
+    </script>
+</div>
+
+
