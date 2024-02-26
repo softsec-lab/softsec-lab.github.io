@@ -119,6 +119,10 @@
     font-size: 3rem;
 }
 
+body.modal-open {
+    overflow: hidden;
+}
+
 /* 미디어 쿼리를 사용하여 화면 크기에 따라 모달의 최대 너비 조절 */
 @media screen and (max-width: 600px) {
     .modal-content {

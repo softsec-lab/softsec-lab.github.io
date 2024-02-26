@@ -48,11 +48,14 @@ layout: default
             document.getElementById('modalTitle').innerText = object.dataset.title;
             document.getElementById('modalDate').innerText = object.dataset.date;
             document.getElementById('modalDescription').innerText = object.dataset.content;
+
+            document.body.classList.add('modal-open');
             document.getElementById('myModal').style.display = 'flex';
         }
 
         // 모달 닫기
         function closeModal() {
+            document.body.classList.remove('modal-open');
             document.getElementById('myModal').style.display = 'none';
         }
     </script>
