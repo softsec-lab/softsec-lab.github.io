@@ -8,6 +8,11 @@ permalink: /teaching/
 
 ### Teaching
 
+#### Spring 2024
+* [SWE3006-41] Programming Languages (프로그래밍언어론)
+* [ESW4012-41] Offensive Security (공격관점보안)
+* [SSIT-2-1] Python Fundamentals and Data Visualization (파이썬 기초 및 데이터 시각화)
+
 #### Fall 2023
 * [SWE3006-41] Programming Languages (프로그래밍언어론)
 * [DASF003-41] Computer Programming for Engineers (공학컴퓨터프로그래밍; C++)
