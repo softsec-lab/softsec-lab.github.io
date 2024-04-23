@@ -19,7 +19,11 @@ We applies various techniques from security, programming language, and software 
 
 **Current Research Projects**
 1. 자동차 시스템 보안성 및 품질 향상을 위한 소프트웨어 분석 프레임워크 (NRF 2022 ~ 2024, 연구책임자) <br>
-2. 개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 AI 플랫폼 연구 및 개발 (IITP 2022 ~ 2027, 공동연구원) <br>
+2. IoT 제품 공급망 보안 위협 분석 기술 연구 (NSRI 2024 ~ 2024, 연구책임자) <br>
+3. 개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 AI 플랫폼 연구 및 개발 (IITP 2022 ~ 2027, 공동연구원) <br>
+4. AI 및 명세 기반 자동화 도구를 활용한 인공위성 보안 취약점 탐지 기술 개발 (IITP 2024 ~ 2028, 공동연구원) <br>
+5. 디지털 환경에서의 증거인멸행위 증명 및 대응기술 개발 (IITP 2024 ~ 2028, 공동연구원) <br>
+
 
 **Past Research Projects**
 1. 공개 OS 커널 기반 임베디드 펌웨어 에뮬레이션 기술 연구 (NSRI 2022 ~ 2022, 연구책임자) <br>

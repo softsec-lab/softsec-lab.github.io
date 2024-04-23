@@ -1,8 +1,8 @@
 - title: "An Empirical Study of JVMs’ Behaviors on Erroneous JNI Interoperations"
   authors: Sungjae Hwang, Sungho Lee, and Sukyoung Ryu
   link:
-    url:
-    display: IEEE Transactions on Software Engineering (TSE), To appear.
+    url: https://ieeexplore.ieee.org/document/10460136
+    display: IEEE Transactions on Software Engineering (TSE 2024)
 
 - title: "R2I: A Relative Readability Metric for Decompiled Code"
   authors: Haeun Eom, Dohee Kim, Sori Lim, Hyungjoon Koo, Sungjae Hwang
