@@ -18,15 +18,6 @@
     - Very famous Hacker!
     - Research Interest- Automotive Security
 
-- name: Kihwan Kim
-  photo: kimkihwan.jpeg 
-  info: Ph.D student (collaborative researcher)
-  email: cliffclimber AT g.skku.edu
-  details:
-    - M.S at KAIST
-    - B.S at KAIST
-    - Research Interest- Automotive Security
-
 - name: Junseok Lee
   photo: leejunseok.jpg 
   info: M.S student
@@ -128,3 +119,10 @@
   details:
     - M.S at Sungkyunkwan University
     - Research Interest- Programming Language
+
+- name: Gyeongmin Dan
+  photo: gyeongmin-dan.png
+  info: M.S student
+  details:
+    - M.S at Sungkyunkwan University
+    - Research Interest- Blockchain Technology
