@@ -1,13 +1,34 @@
+- name: ACM WiSec 2024
+  details:
+  - writer: Dohee Kim
+    title: ACM WiSec 2024 Trip Report
+    contents:
+      - type: report
+        href: /report/ACM_WISec_2024/WiSec-2024-Trip-Report_Dohee.pdf
+  - writer: GumJin Lee
+    title: Trip Report ACM WiSec 2024
+    contents:
+      - type: report
+        href: /report/ACM_WISec_2024/Trip-Report.pdf
+  - writer: Junehyung Kim
+    title: "Trip Report: ACM WiSec 2024 in Seoul"
+    contents:
+      - type: report
+        href: /report/ACM_WISec_2024/WiSec2024-Trip-Report-김준형.pdf
+  - writer: Haeun Eom
+    title: ACM WiSec 2024 Trip report
+    contents:
+      - type: report
+        href: /report/ACM_WISec_2024/Wisec_trip_report_haeun.pdf
 - name: Black Hat Europe 2023
   details:
     - writer: Haeun Eom
       title: Black Hat Europe 2023 Trip Report
       contents: 
         - type: report
-          href: /report/Black_Hat_Trip_Report_haeun.pdf
+          href: /report/Black_Hat/Black_Hat_Trip_Report_haeun.pdf
     - writer: Dohee Kim
       title: Black Hat Europe 2023 Trip Report
       contents: 
         - type: report
-          href: /report/Black-Hat-Europe-2023-Trip-Report_Dohee.pdf
-    
+          href: /report/Black_Hat/Black-Hat-Europe-2023-Trip-Report_Dohee.pdf
