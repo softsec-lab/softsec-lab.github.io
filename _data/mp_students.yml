@@ -126,3 +126,10 @@
   details:
     - M.S at Sungkyunkwan University
     - Research Interest- Blockchain Technology
+
+- name: Omar Abusabha
+  photo: omar.jpg
+  info: Ph.D student
+  details:
+    - MS/Ph.D at Sungkyunkwan University
+    - Research Interest- Compiler (LLVM ToolChain)/Decompiler, Binary Reversing (including Malware), and Threat Intelligence
