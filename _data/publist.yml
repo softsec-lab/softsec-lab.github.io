@@ -13,7 +13,7 @@
 - title: "R2I: A Relative Readability Metric for Decompiled Code"
   authors: Haeun Eom, Dohee Kim, Sori Lim, Hyungjoon Koo, Sungjae Hwang
   link:
-    url:
+    url: https://dl.acm.org/doi/10.1145/3643744
     display: ACM International Conference on the Foundations of Software Engineering (FSE 2024)
 
 - title: "Challenges in Firmware Re-Hosting for Satellite Systems"
