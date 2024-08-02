@@ -7,17 +7,6 @@
 #  education2:
 #  education3:
 #  education4:
-
-
-- name: Chunsung Park 
-  photo: park.jpeg 
-  info: Ph.D student 
-  email: ashine@skku.edu
-  details: 
-    - M.S at Korea University
-    - Very famous Hacker!
-    - Research Interest- Automotive Security
-
 - name: Junseok Lee
   photo: leejunseok.jpg 
   info: M.S student
@@ -126,10 +115,3 @@
   details:
     - M.S at Sungkyunkwan University
     - Research Interest- Blockchain Technology
-
-- name: Omar Abusabha
-  photo: omar.jpg
-  info: Ph.D student
-  details:
-    - MS/Ph.D at Sungkyunkwan University
-    - Research Interest- Compiler (LLVM ToolChain)/Decompiler, Binary Reversing (including Malware), and Threat Intelligence

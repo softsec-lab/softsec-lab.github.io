@@ -46,12 +46,12 @@ permalink: /members/
 
 
 
-### Graduate Students
-
 **We are looking for highly motivated graduate students!**
 
+### PH.D Students
+
 {% assign number_printed = 0 %}
-{% for member in site.data.mp_students %}
+{% for member in site.data.mp_phd_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -83,7 +83,40 @@ permalink: /members/
 </div>
 {% endif %}
 
+### M.S Students
 
+{% assign number_printed = 0 %}
+{% for member in site.data.mp_master_students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+  {% for detail in member.details %}
+    <li> {{ detail }} </li>
+  {% endfor %}
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 ### Undergraduate Students
 
