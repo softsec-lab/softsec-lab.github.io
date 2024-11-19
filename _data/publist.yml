@@ -1,8 +1,26 @@
 
-- title: "All You Need is Attention: Lightweight Attention-based Data Augmentation for Text Classification"
+- title: "A Survey of Software Supply Chain Security"
+  authors: Youngseok Kim, Sungjae Hwang
+  link:
+    url: 
+    display: Conference on Information Security and Cryptography-Winter (CISC-W 2024)
+
+- title: "A Survey on Darkweb Research : Trends, Challenges, and Future Directions"
+  authors: Dohee Kim, Sungjae Hwang
+  link:
+    url: 
+    display: Conference on Information Security and Cryptography-Winter (CISC-W 2024)
+
+- title: "A Survey on Metrics in Machine Unlearning"
   authors: Junehyung Kim, Sungjae Hwang
   link:
     url: 
+    display: Conference on Information Security and Cryptography-Winter (CISC-W 2024)
+
+- title: "All You Need is Attention: Lightweight Attention-based Data Augmentation for Text Classification"
+  authors: Junehyung Kim, Sungjae Hwang
+  link:
+    url: https://aclanthology.org/2024.findings-emnlp.752.pdf
     display: Conference on Empirical Methods in Natural Language Processing (EMNLP-Findings 2024)
 
 - title: "Firmware Re-hosting for Dynamic Analysis"
