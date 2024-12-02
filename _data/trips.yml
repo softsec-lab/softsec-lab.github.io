@@ -1,3 +1,15 @@
+- name: EMNLP 2024
+  details:
+  - writer: Junehyung Kim
+    title: Trip Report
+    contents:
+      - type: report
+        href: /report/EMNLP_2024/Trip_Report_김준형.pdf
+  - writer: GumJin Lee
+    title: EMNLP 2024 Trip Report
+    contents:
+      - type: report
+        href: /report/EMNLP_2024/EMNLP 2024 Trip Report.pdf
 - name: FSE 2024
   details:
   - writer: Haeun Eom
