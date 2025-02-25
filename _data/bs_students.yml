@@ -7,27 +7,4 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Giri Pravas
-  photo: giri-pravas.jpg
-  info: Undergraduate student 
-  details: 
-    - B.S at Sungkyunkwan University
-    - Research Interest- Cloud Computing
-- name: Seongjung Kim
-  photo: seongjung-kim.jpeg
-  info: Undergraduate student
-  details:
-    - B.S at Sungkyunkwan University
-    - Research Interest - Automotive Security
-- name: Yejun Kim
-  photo: 김예준5250.jpg
-  info: Undergraduate Student
-  details:
-    - B.S at Sungkyunkwan University
-    - Research Interest - Malware Analysis
-- name: Haram Rha
-  photo: Haram-Rha.jpg
-  info: Undergraduate Student
-  details:
-    - B.S at Sungkyunkwan University major in Physics, Electronic and Electrical Engineering and Computer Science
-    - Research Interest - Software Security
+

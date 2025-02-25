@@ -26,31 +26,6 @@
     - M.S at Sungkyunkwan University
     - Research Interest- Automotive Security
 
-- name: Haeun Eom
-  photo: eom.jpeg
-  info: M.S student 
-  email: baksa1849 AT g.skku.edu
-  details: 
-    - M.S at Sungkyunkwan University
-    - Research Interest- Automotive Security
-
-- name: Bohyun Suk
-  photo: suk.jpeg
-  info: M.S student 
-  email: baksa1849 AT g.skku.edu
-  details: 
-    - M.S at Sungkyunkwan University
-    - Research Interest- Cloud Security
-
-- name: Junehyung Kim 
-  photo: jun.jpeg
-  info: M.S student 
-  email: baksa1849 AT g.skku.edu
-  details: 
-    - B.S at Sungkyunkwan University major in Mathematics and Computer Science 
-    - M.S at Sungkyunkwan University
-    - Research Interest- Intersection of Machine Learning and Data Privacy 
-
 - name: Youngseok Kim
   photo: kim.jpeg 
   info: M.S student 
@@ -108,7 +83,39 @@
     - M.S at Sungkyunkwan University
     - Research Interest- Blockchain Technology
 
-- name: Kim Jaewon
+- name: Giri Pravas
+  photo: giri-pravas.jpg
+  info: M.S student
+  details:
+    - M.S at Sungkyunkwan University
+    - B.S at Sungkyunkwan University
+    - Research Interest- Cloud Computing
+
+- name: Seongjung Kim
+  photo: seongjung-kim.jpeg
+  info: M.S student
+  details:
+    - M.S at Sungkyunkwan University
+    - B.S at Sungkyunkwan University
+    - Research Interest - Automotive Security
+
+- name: Yejun Kim
+  photo: 김예준5250.jpg
+  info: M.S student
+  details:
+    - M.S at Sungkyunkwan University
+    - B.S at Sungkyunkwan University
+    - Research Interest - Malware Analysis
+
+- name: Haram Rha
+  photo: Haram-Rha.jpg
+  info: M.S student
+  details:
+    - M.S at Sungkyunkwan University
+    - B.S at Sungkyunkwan University major in Physics, Electronic and Electrical Engineering and Computer Science
+    - Research Interest - Software Security
+
+- name: Jaewon Kim
   photo: jaewon-kim.jpg
   info: M.S student
   details:
