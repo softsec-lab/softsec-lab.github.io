@@ -18,14 +18,6 @@
     - former) LG CNS, Blockchain Team
     - Research Interest- Blockchain Security
 
-- name: Dohee Kim
-  photo: kimdohee.jpg 
-  info: M.S student
-  email: cliffclimber AT g.skku.edu
-  details:
-    - M.S at Sungkyunkwan University
-    - Research Interest- Automotive Security
-
 - name: Youngseok Kim
   photo: kim.jpeg 
   info: M.S student 
@@ -119,8 +111,8 @@
   photo: jaewon-kim.jpg
   info: M.S student
   details:
-    - B.S at Sungkyunkwan University
     - M.S at Sungkyunkwan University
+    - B.S at Sungkyunkwan University
     - Research Interest - Android Security
 - name: HUI ZHAO
   photo: hui.jpg
