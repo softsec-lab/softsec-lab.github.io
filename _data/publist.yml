@@ -1,40 +1,46 @@
 
+- title: "From Rules to LLM-Enhanced Templates: A Hybrid ALPG Code Generation System"
+  authors: Sanghyeok Park, Sungjae Hwang, Simon S. Woo
+  link:
+    url: https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice 
+    display: 48th ACM/IEEE International Conference on Software Engineering (ICSE SEIP 2026)
+
 - title: "Challenges in Firmware Rehosting Techniques"
   authors: Haeun Eom, Sungjae Hwang
   link:
-    url: 
+    url: https://kiisc.or.kr/bbs/ga/article/4295 
     display: Conference on Information Security and Cryptography-Winter (CISC-S 2025)
 
 - title: "Application-Based Anti-Forensic Techniques and their Artifacts in Android Environments"
   authors: Youngseok Kim, Sungjae Hwang
   link:
-    url: 
+    url: https://kiisc.or.kr/bbs/ga/article/4295
     display: Conference on Information Security and Cryptography-Winter (CISC-S 2025)
 
 
 - title: "Building an Unstructured PII Detection Dataset via LLM-Based Template Synthesis"
   authors: Mingyu Kim, Sungjae Hwang
   link:
-    url: 
+    url: https://kiisc.or.kr/bbs/ga/article/4295
     display: Conference on Information Security and Cryptography-Winter (CISC-S 2025)
 
 
 - title: "A Survey of Software Supply Chain Security"
   authors: Youngseok Kim, Sungjae Hwang
   link:
-    url: 
+    url: https://www.cisc.or.kr/
     display: Conference on Information Security and Cryptography-Winter (CISC-W 2024)
 
 - title: "A Survey on Darkweb Research : Trends, Challenges, and Future Directions"
   authors: Dohee Kim, Sungjae Hwang
   link:
-    url: 
+    url: https://www.cisc.or.kr/
     display: Conference on Information Security and Cryptography-Winter (CISC-W 2024)
 
 - title: "A Survey on Metrics in Machine Unlearning"
   authors: Junehyung Kim, Sungjae Hwang
   link:
-    url: 
+    url: https://www.cisc.or.kr/
     display: Conference on Information Security and Cryptography-Winter (CISC-W 2024)
 
 - title: "All You Need is Attention: Lightweight Attention-based Data Augmentation for Text Classification"
