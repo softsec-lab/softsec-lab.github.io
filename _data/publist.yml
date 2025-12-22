@@ -5,6 +5,12 @@
     url: 
     display: Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 
+- title: "A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis"
+  authors: Omar Abusabha, Jiyong Uhm, Tamer Abuhmed, and Hyungjoon Koo 
+  link:
+    url: 
+    display: In Network and Distributed System Security Symposium (NDSS 2026)
+
 - title: "From Rules to LLM-Enhanced Templates: A Hybrid ALPG Code Generation System"
   authors: Sanghyeok Park, Sungjae Hwang, Simon S. Woo
   link:
