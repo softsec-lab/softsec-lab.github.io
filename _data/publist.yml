@@ -1,4 +1,10 @@
 
+- title: "An Empirical Study and Benchmark of Kubernetes Misconfiguration Scanners"
+  authors: Haeun Eom, Bohyun Suk, Sungjae Hwang
+  link:
+    url: 
+    display: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
+
 - title: "Forensic Analysis of Video Data Deletion and Recovery in Honeywell Surveillance File System"
   authors: Jinhee Yoon, Sungjae Hwang
   link:
