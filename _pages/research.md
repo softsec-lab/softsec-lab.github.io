@@ -18,7 +18,7 @@ We applies various techniques from security, programming language, and software 
 </div>
 
 **Current Research Projects**
-1. 국가/공공기관 도입 상용드론 보안 위해성 검증 기술 연구(NSRI 2025 ~ 2025, 연구책임자) <br>
+1. SW·IoT 펌웨어 퍼징 기반 위해성 분석·탐지 기술 연구 (NSRI 2026 ~ 2026, 연구책임자) <br>
 2. 개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 AI 플랫폼 연구 및 개발 (IITP 2022 ~ 2027, 공동연구원) <br>
 3. AI 및 명세 기반 자동화 도구를 활용한 인공위성 보안 취약점 탐지 기술 개발 (IITP 2024 ~ 2028, 공동연구원) <br>
 4. 디지털 환경에서의 증거인멸행위 증명 및 대응기술 개발 (IITP 2024 ~ 2028, 공동연구원) <br>
@@ -31,6 +31,7 @@ We applies various techniques from security, programming language, and software 
 5. 자동차 시스템 보안성 및 품질 향상을 위한 소프트웨어 분석 프레
 임워크 (NRF 2022 ~ 2024, 연구책임자) <br>
 6. IoT 제품 공급망 보안 위협 분석 기술 연구 (NSRI 2024 ~ 2024, >연구책임자) <br>
+7. 국가/공공기관 도입 상용드론 보안 위해성 검증 기술 연구(NSRI 2025 ~ 2025, 연구책임자) <br>
 
 <!---
 **Cloud Security**<br>
