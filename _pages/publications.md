@@ -34,7 +34,7 @@ permalink: /publications/
 {{ publi.title }}
 {% endif %}
 </strong><br />
-<em>{{ publi.authors }}</em> —
+<em>{{ publi.authors }}</em> <br />
 <em>{{ publi.link.display }}</em>
 </li>
 {% endfor %}
