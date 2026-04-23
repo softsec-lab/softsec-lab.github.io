@@ -1,3 +1,9 @@
+- title: "A Measurement Study of Scam Activities on NFD Discord"
+  authors: Junhyeok Yoo, Sungjae Hwang
+  year: 2026
+  link:
+    url: 
+    display: Conference on Information Security and Cryptography-Summer (CISC-S 2026)
 
 - title: "An Empirical Study and Benchmark of Kubernetes Misconfiguration Scanners"
   authors: Haeun Eom, Bohyun Suk, Sungjae Hwang
@@ -48,14 +54,14 @@
   year: 2025
   link:
     url: https://kiisc.or.kr/bbs/ga/article/4295 
-    display: Conference on Information Security and Cryptography-Winter (CISC-S 2025)
+    display: Conference on Information Security and Cryptography-Summer (CISC-S 2025)
 
 - title: "Application-Based Anti-Forensic Techniques and their Artifacts in Android Environments"
   authors: Youngseok Kim, Sungjae Hwang
   year: 2025
   link:
     url: https://kiisc.or.kr/bbs/ga/article/4295
-    display: Conference on Information Security and Cryptography-Winter (CISC-S 2025)
+    display: Conference on Information Security and Cryptography-Summer (CISC-S 2025)
 
 
 - title: "Building an Unstructured PII Detection Dataset via LLM-Based Template Synthesis"
@@ -63,7 +69,7 @@
   year: 2025
   link:
     url: https://kiisc.or.kr/bbs/ga/article/4295
-    display: Conference on Information Security and Cryptography-Winter (CISC-S 2025)
+    display: Conference on Information Security and Cryptography-Summer (CISC-S 2025)
 
 
 - title: "A Survey of Software Supply Chain Security"
