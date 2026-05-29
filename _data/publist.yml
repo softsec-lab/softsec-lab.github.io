@@ -1,10 +1,3 @@
-- title: "A Measurement Study of Scam Activities on NFD Discord"
-  authors: Junhyeok Yoo, Sungjae Hwang
-  year: 2026
-  link:
-    url: 
-    display: Conference on Information Security and Cryptography-Summer (CISC-S 2026)
-
 - title: "An Empirical Study and Benchmark of Kubernetes Misconfiguration Scanners"
   authors: Haeun Eom, Bohyun Suk, Sungjae Hwang
   year: 2026
@@ -48,6 +41,21 @@
   link:
     url: https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice 
     display: 48th ACM/IEEE International Conference on Software Engineering (ICSE SEIP 2026)
+
+- title: "Context-Aware Risk Assessment Metric for Kubernetes Admission Webhook Misconfigurations"
+  authors: Seohyun Ahn, Sungjae Hwang
+  year: 2026
+  link:
+    url:
+    display: Journal of The Korea Institute of Information Security & Cryptology (KIISC 2026)
+
+- title: "A Measurement Study of Scam Activities on NFD Discord"
+  authors: Junhyeok Yoo, Sungjae Hwang
+  year: 2026
+  link:
+    url: 
+    display: Conference on Information Security and Cryptography-Summer (CISC-S 2026)
+
 
 - title: "Challenges in Firmware Rehosting Techniques"
   authors: Haeun Eom, Sungjae Hwang
