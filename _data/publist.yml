@@ -1,3 +1,10 @@
+- title: "SpecTrum: Specification-Guided Differential Fuzzing for Ethereum Consensus Clients"
+  authors: Seokhun Jeong, Gyeongmin Dan, Sukyoung Ryu, Sungjae Hwang
+  year: 2026
+  link:
+    url: 
+    display: 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
+
 - title: "An Empirical Study and Benchmark of Kubernetes Misconfiguration Scanners"
   authors: Haeun Eom, Bohyun Suk, Sungjae Hwang
   year: 2026
