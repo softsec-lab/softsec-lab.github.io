@@ -1,9 +1,16 @@
-- title: "SpecTrum: Specification-Guided Differential Fuzzing for Ethereum Consensus Clients"
-  authors: Seokhun Jeong, Gyeongmin Dan, Sukyoung Ryu, Sungjae Hwang
+- title: "How Safe is Your Screen? Understanding and Detecting Privacy Leaks in Sensitive Activities"
+  authors: Youngseok Kim, Sungho Lee, Sungjae Hwang
   year: 2026
   link:
     url: 
-    display: 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
+    display: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
+
+- title: "Ghosts in the Memory: Detecting Unintended Sensitive Data in Android Apps"
+  authors: Seonghyeon Song, Taeyoung Kim, Woojoo Kim, Seojin Park, Sungjae Hwang, Hyoungshick Kim
+  year: 2026
+  link:
+    url: 
+    display: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
 
 - title: "An Empirical Study and Benchmark of Kubernetes Misconfiguration Scanners"
   authors: Haeun Eom, Bohyun Suk, Sungjae Hwang
@@ -11,6 +18,15 @@
   link:
     url: 
     display: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
+
+
+- title: "SpecTrum: Specification-Guided Differential Fuzzing for Ethereum Consensus Clients"
+  authors: Seokhun Jeong, Gyeongmin Dan, Sukyoung Ryu, Sungjae Hwang
+  year: 2026
+  link:
+    url: 
+    display: 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
+
 
 - title: "Forensic Analysis of Video Data Deletion and Recovery in Honeywell Surveillance File System"
   authors: Jinhee Yoon, Sungjae Hwang
