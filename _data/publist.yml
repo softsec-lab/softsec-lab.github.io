@@ -48,7 +48,7 @@
   authors: Jongchan Hong, Jaewon Kim, Sungjae Hwang
   year: 2026
   link:
-    url: 
+    url: /report/FSE_2026/ocppuzz_preprint.pdf
     display: Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 
 - title: "A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis"
