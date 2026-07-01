@@ -40,7 +40,7 @@
   authors: Dohee Kim, Zhao Hui, Doowon Kim and Sungjae Hwang
   year: 2026
   link:
-    url: 
+    url: https://dl.acm.org/doi/10.1145/3774904.3792737
     display: The ACM Web Conference (WWW 2026)
 
 
@@ -48,7 +48,7 @@
   authors: Jongchan Hong, Jaewon Kim, Sungjae Hwang
   year: 2026
   link:
-    url: /report/FSE_2026/ocppuzz_preprint.pdf
+    url: https://dl.acm.org/doi/10.1145/3797091
     display: Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 
 - title: "A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis"
