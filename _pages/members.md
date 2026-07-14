@@ -161,7 +161,17 @@ permalink: /members/
 
 ### Alumni
 
+{% for member in site.data.alumni_members %}
+<div style="margin-bottom: 2px;">
+  <p style="margin: 0; font-size: 16px; line-height: 1.8;">
+    <strong>{{ member.name }}</strong>
+    <i>{{ member.info }}</i>
+  </p>
+</div>
+{% endfor %}
 
+
+<!--
 {% for member in site.data.alumni_members %}
 <div class="row" style="height: 16px">
 <div class="col-sm-12 clearfix">
@@ -171,7 +181,7 @@ permalink: /members/
 </div>
 </div>
 {% endfor %}
-
+-->
 
 
 
