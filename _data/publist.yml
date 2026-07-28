@@ -1,4 +1,21 @@
 
+
+- title: "SpecTrum: Specification-Guided Differential Fuzzing for Ethereum Consensus Clients"
+  authors: Seokhun Jeong, Gyeongmin Dan, Sukyoung Ryu, Sungjae Hwang
+  year: 2026
+  link:
+    url: 
+    display: 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
+
+
+- title: "Orbis: Guiding Symbolic Execution Techniques to Maximize Option-Related Branch Coverage"
+  authors: Minjong Kim, Sungjae Hwang, Sooyoung Cha
+  year: 2026
+  link:
+    url: 
+    display: 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
+
+
 - title: "CARVE: Recovering and Reconstructing Deleted H.264/H.265 Video from Honeywell Surveillance Systems"
   authors: Pravas Giri, Jinhee Yoon, Sungjae Hwang
   year: 2026
@@ -34,14 +51,6 @@
   link:
     url: 
     display: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
-
-
-- title: "SpecTrum: Specification-Guided Differential Fuzzing for Ethereum Consensus Clients"
-  authors: Seokhun Jeong, Gyeongmin Dan, Sukyoung Ryu, Sungjae Hwang
-  year: 2026
-  link:
-    url: 
-    display: 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
 
 
 - title: "Unveiling the Underground Phishing Ecosystem: A 12-Year Longitudinal Study of Deep and Dark Web Forums"
