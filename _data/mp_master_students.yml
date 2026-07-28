@@ -39,7 +39,7 @@
   info: M.S student
   details:
     - M.S at Sungkyunkwan University
-    - Research Interest- Programming Language
+    - Research Interest- CCTV Forensic
 
 - name: Gyeongmin Dan
   photo: gyeongmin-dan.png
@@ -78,7 +78,7 @@
   details:
     - M.S at Sungkyunkwan University
     - B.S at Sungkyunkwan University major in Physics, Electronic and Electrical Engineering and Computer Science
-    - Research Interest - Software Security
+    - Research Interest - Quantum Computing
 
 - name: Jaewon Kim
   photo: jaewon-kim.jpg
@@ -87,6 +87,7 @@
     - M.S at Sungkyunkwan University
     - B.S at Sungkyunkwan University
     - Research Interest - Android Security
+
 - name: HUI ZHAO
   photo: hui.jpg
   info: M.S student
