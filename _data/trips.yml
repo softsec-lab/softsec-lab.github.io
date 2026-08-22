@@ -1,3 +1,10 @@
+- name: DFRWS USA 2026
+  details:
+  - writer: Jinhee Yoon
+    title: Trip Report
+    contents:
+      - type: report
+        href: /report/DFRWS_USA_2026/report.pdf
 - name: EMNLP 2024
   details:
   - writer: Junehyung Kim
