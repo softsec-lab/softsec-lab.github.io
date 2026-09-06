@@ -22,6 +22,7 @@ We applies various techniques from security, programming language, and software 
 2. 개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 AI 플랫폼 연구 및 개발 (IITP 2022 ~ 2027, 공동연구원) <br>
 3. AI 및 명세 기반 자동화 도구를 활용한 인공위성 보안 취약점 탐지 기술 개발 (IITP 2024 ~ 2028, 공동연구원) <br>
 4. 디지털 환경에서의 증거인멸행위 증명 및 대응기술 개발 (IITP 2024 ~ 2028, 공동연구원) <br>
+5. 에이전틱 AI 보안 원천 기술 개발 (IITP AI스타펠로우십, 2026~2031, 공동연구원) <br>
 
 **Past Research Projects**
 1. 공개 OS 커널 기반 임베디드 펌웨어 에뮬레이션 기술 연구 (NSRI 2022 ~ 2022, 연구책임자) <br>
