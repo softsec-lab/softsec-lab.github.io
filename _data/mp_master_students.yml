@@ -27,27 +27,6 @@
     - B.S at Sungkyunkwan University
     - Research Interest- Blockchain Web3 Security
 
-#- name: Seohyun Ahn
-#  photo: SeohyunAhn.png
-#  info: M.S student
-#  details:
-#    - M.S at Sungkyunkwan University
-#    - Research Interest- Cloud Security, Automotive Security
-
-- name: Jinhee Yoon
-  photo: jinheeYoon.png
-  info: M.S student
-  details:
-    - M.S at Sungkyunkwan University
-    - Research Interest- CCTV Forensic
-
-- name: Gyeongmin Dan
-  photo: gyeongmin-dan.png
-  info: M.S student
-  details:
-    - M.S at Sungkyunkwan University
-    - Research Interest- Blockchain Technology
-
 - name: Giri Pravas
   photo: giri-pravas.jpg
   info: M.S student
@@ -105,4 +84,12 @@
     - M.S at Sungkyunkwan University
     - HL Mando, Software Engineer
     - Research Interest - Physical AI
+
+- name: Junsu Kim
+  photo: jun.jpg
+  info: M.S student
+  details:
+    - M.S at Sungkyunkwan University
+    - B.S at Yonsei University
+    - Research Interest - Android Security
 

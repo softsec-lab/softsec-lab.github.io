@@ -16,8 +16,6 @@
     display: 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
 
 
-
-
 - title: "How Safe is Your Screen? Understanding and Detecting Privacy Leaks in Sensitive Activities"
   authors: Youngseok Kim, Sungho Lee, Sungjae Hwang
   year: 2026
@@ -60,20 +58,12 @@
     url: https://dl.acm.org/doi/10.1145/3774904.3792737
     display: The ACM Web Conference (WWW 2026)
 
-
 - title: "OCPPuzz: Specification-driven Fuzzing of Charging Station Management Systems with Large Language Model"
   authors: Jongchan Hong, Jaewon Kim, Sungjae Hwang
   year: 2026
   link:
     url: https://dl.acm.org/doi/10.1145/3797091
     display: Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026)
-
-- title: "A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis"
-  authors: Omar Abusabha, Jiyong Uhm, Tamer Abuhmed, and Hyungjoon Koo 
-  year: 2026
-  link:
-    url: https://www.ndss-symposium.org/wp-content/uploads/2026-f1872-paper.pdf
-    display: In Network and Distributed System Security Symposium (NDSS 2026)
 
 - title: "From Rules to LLM-Enhanced Templates: A Hybrid ALPG Code Generation System"
   authors: Sanghyeok Park, Sungjae Hwang, Simon S. Woo
