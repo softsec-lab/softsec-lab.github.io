@@ -20,21 +20,21 @@
   authors: Youngseok Kim, Sungho Lee, Sungjae Hwang
   year: 2026
   link:
-    url: 
+    url: https://dl.acm.org/doi/10.1145/3832268
     display: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
 
 - title: "Ghosts in the Memory: Detecting Unintended Sensitive Data in Android Apps"
   authors: Seonghyeon Song, Taeyoung Kim, Woojoo Kim, Seojin Park, Sungjae Hwang, Hyoungshick Kim
   year: 2026
   link:
-    url: 
+    url: https://dl.acm.org/doi/10.1145/3832198
     display: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
 
 - title: "An Empirical Study and Benchmark of Kubernetes Misconfiguration Scanners"
   authors: Haeun Eom, Bohyun Suk, Sungjae Hwang
   year: 2026
   link:
-    url: 
+    url: https://dl.acm.org/doi/10.1145/3832297
     display: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
 
 - title: "CARVE: Recovering and Reconstructing Deleted H.264/H.265 Video from Honeywell Surveillance Systems"
