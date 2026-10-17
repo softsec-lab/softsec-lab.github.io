@@ -6,16 +6,55 @@ sitemap: false
 permalink: /research/
 ---
 
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/img.png" width="900" height="600" />
+</div>
+
 ## Research
-We research cross section of security, programming language, and software engineering.<br>
-Our main research goal is to understand and improve security quality of real-world systems.<br>
-Currently, we are interested in automotive, blockchain, Android, and cloud systems. <br>
-We applies various techniques from security, programming language, and software engineering fields.
+Our research lies at the intersection of Artificial Intelligence, Software Engineering, and Security. We aim to advance the understanding, engineering, and trustworthiness of complex software and AI systems by developing novel techniques for program analysis, software testing, automated development, and security. <br>
 
+Our research is organized into three main areas. <br>
 
+### AI Security & Trustworthiness
+As AI systems become increasingly autonomous and integrated into real-world applications, ensuring their security, reliability, and correct behavior presents new challenges. We investigate vulnerabilities and unintended behaviors in AI systems and develop systematic approaches to testing, evaluating, and verifying their trustworthiness. <br>
+
+**Research Topics**
+<ul>
+<li>AI Agent Security and Vulnerability Discovery</li>
+<li>AI Agent Testing, Benchmarking, and Verification</li>
+<li>Machine Unlearning</li>
+</ul><br>
+
+### AI for Software Engineering
+Advances in LLMs and AI agents create new opportunities to transform how software is understood, developed, analyzed, and tested. We investigate how AI can improve software engineering and develop new program representations, analysis techniques, and programming abstractions that enable AI systems to reason more effectively about complex software.<br>
+
+**Research Topics**
+<ul>
+<li>AI-Driven Vulnerability and Bug Detection</li>
+<li>AI-Driven and Agentic Software Development</li>
+<li>AI-Based Software Testing and Analysis</li>
+</ul><br>
+
+### Software & Systems Security
+Modern software systems are increasingly complex and deployed across diverse environments, introducing new security challenges. We develop program analysis, software testing, and empirical research techniques to discover vulnerabilities, understand system behaviors, and assess the security of real-world software and systems. <br>
+
+**Research Topics**
+<ul>
+<li>Software Vulnerability Analysis and Automated Testing</li>
+<li>Mobile, Embedded, and On-Device AI Security</li>
+<li>System Hacking and Vulnerability Research</li>
+<li>Empirical Software and Systems Security</li>
+<li>Digital Forensics and Security Analysis</li>
+</ul><br>
+
+<!--
 <div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/research.jpg" width="750" height="450" />
 </div>
+-->
+
+
+### Projects
 
 **Current Research Projects**
 1. SW·IoT 펌웨어 퍼징 기반 위해성 분석·탐지 기술 연구 (NSRI 2026 ~ 2026, 연구책임자) <br>
