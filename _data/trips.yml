@@ -1,3 +1,11 @@
+
+- name: DFRWS APAC 2026
+  details:
+  - writer: Giri Pravas
+    title: Trip Report
+    contents:
+      - type: report
+        href: /report/DFRWS_APAC_2026/report.pdf
 - name: DFRWS USA 2026
   details:
   - writer: Jinhee Yoon
