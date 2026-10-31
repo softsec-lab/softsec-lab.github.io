@@ -11,6 +11,8 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 70px;
+	font-size: 18px;
+  	line-height: 1.6;
 }
 
 figcaption {
@@ -43,7 +45,7 @@ firstp {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  max-width: 1000px; /* or 950px */
+  max-width: 1200px; /* or 950px */
 }
 
 /* Home, News */
@@ -91,3 +93,12 @@ firstp {
     margin-right: 30px;
 }
 
+body {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+/* 사이트 전체 폭 */
+.container-fluid {
+  max-width: 1400px;
+}
