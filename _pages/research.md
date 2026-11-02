@@ -6,9 +6,11 @@ sitemap: false
 permalink: /research/
 ---
 
+<!--
 <div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/img.png" width="900" height="600" />
 </div>
+-->
 
 ## Research
 Our research lies at the intersection of Artificial Intelligence, Software Engineering, and Security. We aim to advance the understanding, engineering, and trustworthiness of complex software and AI systems by developing novel techniques for program analysis, software testing, automated development, and security. <br>
